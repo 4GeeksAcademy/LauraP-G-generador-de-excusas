@@ -1,1 +1,16 @@
-@import "~bootstrap/dist/css/bootstrap.min.css";
+body {
+  background-color: rgb(246, 234, 219);
+}
+
+#excuse {
+  font-size: 25px;
+  text-align: center;
+  color: rgb(237, 148, 64);
+}
+
+.frase-fija {
+  font-size: 30px;
+  color: green;
+  font-weight: bold;
+  text-align: center;
+}
